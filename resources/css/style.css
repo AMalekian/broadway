@@ -3,7 +3,43 @@ body {
   font-family: Helvetica;
 }
 
-#header, #diny {
-  background-image: url("./resources/images/flatiron.png");
+.header, #diny {
+  background-image: url(../images/flatiron.png);
   color: white;
+}
+
+h1{
+  font-size: 70px;
+  font-weight: bold;
+}
+
+a{
+  font-size: 18px;
+  color: white;
+}
+
+h2{
+  font-size: 32px;
+  font-weight: bold;
+}
+
+h3{
+  font-size: 23px;
+  font-weight: bold;
+}
+
+p{
+  font-size: 14px;
+}
+
+#diny{
+  font-size: 23px;
+  font-weight: bold;
+}
+
+.footer{
+  text-align: left;
+  background-color: dimgray;
+  color: white;
+  font-size: 11px;
 }
