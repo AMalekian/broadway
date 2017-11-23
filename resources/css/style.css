@@ -1,3 +1,9 @@
-body{
+body {
   text-align: center;
+  font-family: Helvetica;
+}
+
+#header, #diny {
+  background-image: url("./resources/images/flatiron.png");
+  color: white;
 }
